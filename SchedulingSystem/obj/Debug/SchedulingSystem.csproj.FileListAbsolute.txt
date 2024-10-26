@@ -1,0 +1,14 @@
+C:\Users\Егор\source\repos\SchedulingSystem\SchedulingSystem\bin\Debug\SchedulingSystem.exe.config
+C:\Users\Егор\source\repos\SchedulingSystem\SchedulingSystem\bin\Debug\SchedulingSystem.exe
+C:\Users\Егор\source\repos\SchedulingSystem\SchedulingSystem\bin\Debug\SchedulingSystem.pdb
+C:\Users\Егор\source\repos\SchedulingSystem\SchedulingSystem\obj\Debug\SchedulingSystem.csprojAssemblyReference.cache
+C:\Users\Егор\source\repos\SchedulingSystem\SchedulingSystem\obj\Debug\SchedulingSystem.Form1.resources
+C:\Users\Егор\source\repos\SchedulingSystem\SchedulingSystem\obj\Debug\SchedulingSystem.Properties.Resources.resources
+C:\Users\Егор\source\repos\SchedulingSystem\SchedulingSystem\obj\Debug\SchedulingSystem.csproj.GenerateResource.cache
+C:\Users\Егор\source\repos\SchedulingSystem\SchedulingSystem\obj\Debug\SchedulingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\SchedulingSystem\SchedulingSystem\obj\Debug\SchedulingSystem.exe
+C:\Users\Егор\source\repos\SchedulingSystem\SchedulingSystem\obj\Debug\SchedulingSystem.pdb
+C:\Users\Егор\source\repos\SchedulingSystem\SchedulingSystem\obj\Debug\SchedulingSystem.AddGroup.resources
+C:\Users\Егор\source\repos\SchedulingSystem\SchedulingSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Егор\source\repos\SchedulingSystem\SchedulingSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Егор\source\repos\SchedulingSystem\SchedulingSystem\obj\Debug\SchedulingSystem.csproj.CopyComplete
